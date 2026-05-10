@@ -2,6 +2,9 @@
 __pycache__/
 *.py[codz]
 *$py.class
+#Datasets 
+data/raw
+*.csv
 
 # C extensions
 *.so
@@ -156,6 +159,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
 
 # Spyder project settings
 .spyderproject
